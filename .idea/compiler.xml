@@ -5,6 +5,9 @@
       <module name="laborator_1" target="22" />
       <module name="laborator_1.main" target="22" />
       <module name="laborator_1.test" target="22" />
+      <module name="laborator_2" target="22" />
+      <module name="laborator_2.main" target="22" />
+      <module name="laborator_2.test" target="22" />
     </bytecodeTargetLevel>
   </component>
 </project>
